@@ -1,6 +1,6 @@
 # MiniOS
 
-This a example of OS development using Nick Blundell, Bran's Kernel and OSDev.org.
+OS from scratch using Nick Blundell, Bran's Kernel and OSDev.org.
 
 ### Needs
 
